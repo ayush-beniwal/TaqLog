@@ -10,7 +10,7 @@
 
 TaqLog- A flutter based android app which helps you manage tasks via todos.
 You can tap the checkmark next to the todos to mark them as complete or can do the same to mark 
-completed todos as incomplete.
+completed todos as incomplete. Video demonstration and apk file can be found as files in the code as well in a drive link at the bottom of this file.
 
 
  
