@@ -1,16 +1,11 @@
-# taqloq
+# Taqlog
 
-A new Flutter project.
+TaqLog- A flutter based android app which helps you manage tasks via todos
+Todos can be added via a +Todo button , existing todos can be edited or deleted
+The app adds creation time of each todo along with user provided title and description.
+You can tap the checkmark next to the todos to mark them as complete or can do the same to mark 
+completed todos as incomplete.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
